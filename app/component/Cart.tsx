@@ -35,7 +35,6 @@ const Cart = () => {
                             12x Beef, 10x Chicken, 8x Salmon
                         </span>
                     </div>
-
                 </div>
             </div>
         </div>
