@@ -2,7 +2,6 @@
 
 import React from 'react';
 import styles from '../Styles/Cart.module.css';
-import editPenIcon from '../Styles/editPenIvon.svg'
 
 const Cart: React.FC = () => {
     return (
